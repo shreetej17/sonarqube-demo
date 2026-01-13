@@ -4,7 +4,7 @@ import users
 def main():
     print("Welcome to SonarQu Demo Application")
 
-    a = 10
+    a = 100
     b = 0
 
     result = calculator.divide(a, b)   # Bug: divide by zero
