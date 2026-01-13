@@ -2,7 +2,7 @@ import calculator
 import users
 
 def main():
-    print("Welcome to SonarQube Demo Application")
+    print("Welcome to SonarQu Demo Application")
 
     a = 10
     b = 0
